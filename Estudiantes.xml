@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dbp>
+    <estudiante ides="1"> 
+        <cedula genero="masculino" id="1234">1105609875</cedula>
+        <nombre>Pedro</nombre>
+        <apellido>Gomez</apellido>
+        <direccion>Argelia</direccion>
+        <celular>0935187495</celular> 
+        <carrera>Computación</carrera>   
+    </estudiante>
+    <estudiante> 
+        <cedula>1105409475</cedula>
+        <nombre>Gonzalo</nombre>
+        <apellido>Lopez</apellido>
+        <direccion>Los rosales</direccion>
+        <celular>0935461872</celular>
+        <carrera>Computación</carrera>    
+    </estudiante>
+    <estudiante> 
+        <cedula>1105309474</cedula>
+        <nombre>Kelly</nombre>
+        <apellido>Preciado</apellido>
+        <direccion>Las Peñas</direccion>
+        <celular>0945718430</celular> 
+        <carrera>Computación</carrera>   
+    </estudiante>  
+    <estudiante> 
+        <cedula>1105408555</cedula>
+        <nombre>Lucas</nombre>
+        <apellido>Andrade</apellido>
+        <direccion>Las Peñas</direccion>
+        <celular>0954186253</celular> 
+        <carrera>Computación</carrera>   
+    </estudiante> 
+</dbp>

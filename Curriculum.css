@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500;600&family=Roboto+Flex:opsz,wght@8..144,100;8..144,200;8..144,300;8..144,400&display=swap');*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Flex', sans-serif;
+}
+iframe{
+    width: 60%;
+    height: 90vh;
+}
+
+body {
+  heigh:665px;
+  background: brown;
+  background-size: 10rem;
+}
+.nav{
+    color: #fff;
+    /*background:#e66225;*/
+    
+}
+
+.nav .nav-title{
+    padding: 30px;
+}
+
+
+.nav .nav-options ul{
+    list-style: none;
+    display: flex;
+}
+
+.nav .nav-options ul a,
+.nav .nav-title a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav .nav-options ul li{
+    margin: 0 30px ;
+    transition: all .3s ease-in-out;
+    padding: 30px;
+    font-size: 20px;
+}
+
+.nav .nav-options ul li:hover{
+    background: #9c543e;
+    transform: scale(1.2);
+}
+
+
+h1 {
+    color: #eba24f;
+
+}
+h2{
+    text-align: center;
+    color: #f2a55d;
+    padding: 10px;
+    font-size: 70px;
+
+}
+
+h4{
+    color: #eba24f;*/
+}
+
+
+.datos{
+    color: #rgb(7, 7, 7);
+    padding: 10px;
+}
+
+.datos .dato{
+    display: flex;
+    width: 80%;
+    margin:30px auto;
+}
+
+.datos .dato h4{
+    font-size: 30px;
+    display: flex;
+    width: 200px;
+}
+.datos .datos-info{
+    width: 80%;
+    margin: auto;
+}
+.datos .dato .datos-info p {
+    margin: 15px;
+    font-size: 30px;
+}
+.datos .options{   
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.datos .options div a i{
+    font-size: 40px;
+    color: rgb(223, 199, 199);
+    transition: all .3s ease-in-out;
+    text-align: center;
+}
+
+.datos .options div a i:hover{
+    transform: scale(1.5);
+}

@@ -1,0 +1,48 @@
+.micalculadoraCSS{
+    box-sizing: border-box;
+    color: #fff;
+    
+
+}
+body{
+    background-color: #fac9cc;
+}
+
+h1{
+    color: rgb(173, 92, 16);
+    padding: 10px;
+    margin: 20px;
+   
+    
+}
+h2{
+    color: rgb(29, 24, 51);
+    padding: 10px;
+    margin: 10px;
+    font-size: small;
+   
+    
+}
+
+
+.texto{
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.estiloNumero{
+    width: 50%;
+}
+
+
+.operacion input{
+    background: rgb(226, 91, 91);
+    padding: 10px;
+    color:rgb(0, 0, 0);
+    margin: 7px;
+    width: 80px;
+    border-radius: 20px;
+    border-color: red;
+    
+}

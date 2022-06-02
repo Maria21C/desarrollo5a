@@ -1,0 +1,46 @@
+[
+    {
+        "Lunes": "Sistemas digitales Ing. Cesar Iñiguez", 
+        "Martes": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa",
+        "Miercoles": "Fundamento de Redes Ing. Mario Cueva ",
+        "Jueves": "Simulación Ing. Oscar Cumbicus",
+        "Viernes": "Sistemas Digitales Ing. Cesar Iñiguez" 
+    },
+    {
+        "Lunes": "Sistemas digitales Ing. Cesar Iñiguez", 
+        "Martes": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa",
+        "Miercoles": "Fundamento de Redes Ing. Mario Cueva ",
+        "Jueves": "Simulación Ing. Oscar Cumbicus",
+        "Viernes": "Sistemas Digitales Ing. Cesar Iñiguez"   
+    },
+
+    {
+        "Lunes": "Análisis Numérico Ing. Andrés Navas", 
+        "Martes": "Fundamento de Redes Ing. Mario Cueva",
+        "Miercoles": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa",
+        "Jueves": "Análisis Numérico Ing. Andrés Navas",
+        "Viernes": "Análisis Numérico Ing. Andrés Navas" 
+    },
+    {
+        "Lunes": "Análisis Numérico Ing. Andrés Navas", 
+        "Martes": "Fundamento de Redes Ing. Mario Cueva",
+        "Miercoles": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa",
+        "Jueves": "Análisis Numérico Ing. Andrés Navas",
+        "Viernes": "Análisis Numérico Ing. Andrés Navas" 
+    },
+    {
+        "Lunes": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa", 
+        "Martes": "Sistemas Digitales Ing. Cesar Iñiguez",
+        "Miercoles": "Simulacion Ing. Oscar Cumbicus",
+        "Jueves": "Sistemas digitales Ing. Cesar Iñiguez",
+        "Viernes": "Simulacion Ing. Oscar Cumbicus" 
+    },
+
+    {
+        "Lunes": "Desarrollo Basado en Plataformas Ing. Roberth Figueroa", 
+        "Martes": "Sistemas digitales Ing. Cesar Iñiguez",
+        "Miercoles": "Simulacion Ing. Oscar Cumbicus",
+        "Jueves": "Sistemas digitales Ing. Cesar Iñiguez",
+        "Viernes": "Simulacion Ing. Oscar Cumbicus" 
+    }
+]
